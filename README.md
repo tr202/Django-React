@@ -1,2 +1,2 @@
 # Django-React
-# Web Tutorial
+# Web Tutorial django with react
